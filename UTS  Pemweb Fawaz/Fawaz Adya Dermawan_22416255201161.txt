@@ -1,0 +1,10 @@
+1. Menurut pemahaman saya sendiri, Framework merupakan jalan singkat apabila kita ingin memulai suatu aplikasi baru saat pengembangan tidak perlu memulai lagi dari nol dalam mendesain suatu fondasi nya
+
+
+2.1. Sistem Administrasi Siswa
+
+2.2. Siraj Nurul Bil Haq : Programmer, Fawaz Adya Dermawan : Software Tester + Database Administrator, Rizki Nurfauzi Alfiansyah : Project Manager + Laporan
+
+2.3. Sangat sulit mencari celah permasalahan saat wawancara kami, tapi dari hasil berdiskusi secara tidak sengaja kami menyadari para siswa harus melapor ke TU jika ingin melihat data dirinya disekolah, kami berencana membuat sebuah aplikasi berbasis web untuk memudahkan siswa melihat informasi pribadinya, atau statusnya di sekolah, tentu saja dengan fitur lainnya.
+
+4. https://github.com/Qw3rty101/pemwebFawaz
