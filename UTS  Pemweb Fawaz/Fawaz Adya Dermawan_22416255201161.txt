@@ -7,4 +7,4 @@
 
 2.3. Sangat sulit mencari celah permasalahan saat wawancara kami, tapi dari hasil berdiskusi secara tidak sengaja kami menyadari para siswa harus melapor ke TU jika ingin melihat data dirinya disekolah, kami berencana membuat sebuah aplikasi berbasis web untuk memudahkan siswa melihat informasi pribadinya, atau statusnya di sekolah, tentu saja dengan fitur lainnya.
 
-4. https://github.com/Qw3rty101/pemwebFawaz
+4. https://github.com/Qw3rty101/UTSpemweb
